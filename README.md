@@ -8,6 +8,8 @@ Miners can easily get started mining Ethereum Classic using an Ethash miner clie
 
 Miners stake in energy, hardware, and other investments to the ecosystem to ensure the success of the network. If the network succeeds, miners succeed, and everyone is happy. To ensure the integrity of the network, and still be rewarded, consider choosing a mining pool that does not have majority share. For example, if "Pool Z" has 49% network hashrate and "Pool X" has 20% hashrate, then consider contributing to "Pool X" to diversify network share.
 
+List of known [Ethereum Classic Mining Pools](https://miningpoolstats.stream/ethereumclassic) 
+
 ## Getting Started
 
 - Download _this_ repo.
