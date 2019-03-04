@@ -19,14 +19,10 @@ Miners stake in energy, hardware, and other investments to the ecosystem to ensu
 
 - __Pheonix Miner v4.1 - Windows__
   
-  Currently configued to Epool.io
-  
-  - Enter _your_ user info in `start_miner.bat`
+  - Enter _your_ info in `start_miner.bat` including desired pool. List of popular pools listed in `pheonix-miner-windows/epools.txt`
   - Run `start_miner.bat` to begin mining.
 
-  Enter your ETC miner address to view your miner dashboard: https://etc.epool.io/
-
-  Resources: https://bitcointalk.org/index.php?topic=2647654.0, https://etc.epool.io/
+  Resources: https://bitcointalk.org/index.php?topic=2647654.0
 
 - __MinerGate CLI Miner v1.2 - Windows__
   

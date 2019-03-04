@@ -31,6 +31,8 @@ requests, please post them to our thread in the bitcointalk forum at the followi
 https://bitcointalk.org/index.php?topic=2647654.0
 
 Here are the command line parameters for some of the more popular pools and coins:
+etc.2miners.com (ETC):
+  PhoenixMiner.exe -pool -pool etc.2miners.com:1010	-pool2 us-etc.2miners.com:1010 -pool3 asia-etc.2miners.com:1010 -worker Rig001 -wal YourEtherWalletAddress -pass x -retrydelay 2
 
 ethermine.org (ETH):
   PhoenixMiner.exe -pool eu1.ethermine.org:4444 -pool2 us1.ethermine.org:4444 -wal YourEthWalletAddress.WorkerName -proto 3
